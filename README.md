@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **nirajajshenoy/nirajajshenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Public & Private Blockchain 
 - 📫 How to reach me:9497509297
 
--->
