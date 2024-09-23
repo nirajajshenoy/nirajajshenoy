@@ -10,7 +10,7 @@
 - 📫 How to reach me:9497509297
 
 
-  &nbsp; [![Telegram](https://raw.githubusercontent.com/nirajajshenoy/nirajajshenoy/dd73d691b8b71ac4eda23d1a655a822653e26f92/telegram.svg)](https://t.me/ananthanir) [![Twitter](https://raw.githubusercontent.com/ananthanir/ananthanir/dd73d691b8b71ac4eda23d1a655a822653e26f92/twitter.svg)](https://twitter.com/ananthanigr)
+  &nbsp; [![Telegram](https://raw.githubusercontent.com/nirajajshenoy/nirajajshenoy/dd73d691b8b71ac4eda23d1a655a822653e26f92/telegram.svg)](https://t.me/nirajajshenoy) [![Twitter](https://raw.githubusercontent.com/nirajajshenoy/nirajajshenoy/dd73d691b8b71ac4eda23d1a655a822653e26f92/twitter.svg)](https://twitter.com/nirajajshenoy)
   
 
   <br><br>
