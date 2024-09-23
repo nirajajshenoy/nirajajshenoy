@@ -6,12 +6,12 @@
 - 🔭 I’m currently working on Blockchain & Hyperledger Fabric
 - 🎓I have done M.Tech Degree in Electronics & Communication
 - 🌱 I’m currently developing Healthcare Application in Fabric Network
-- 📫 How to reach me:9497509297
+- 📫 How to reach me
 
 
   &nbsp; [![Telegram](https://github.com/nirajajshenoy/nirajajshenoy/blob/c84b0976ebd6e0ebd823fb97ed79a133c6c62b50/images/telegram.svg)](https://t.me/nirajajshenoy) [![Twitter](https://github.com/nirajajshenoy/nirajajshenoy/blob/2330576106a9853642c30a030bcb25d2d3f4c8e0/images/twitter.svg)](https://twitter.com/nirajajshenoy)
   
-  <br><br>
+  <br>
   ### 🛠 &nbsp;Web App Development Tech Stack
 
   &nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
