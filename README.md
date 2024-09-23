@@ -11,7 +11,6 @@
 
   &nbsp; [![Telegram](https://github.com/nirajajshenoy/nirajajshenoy/blob/c84b0976ebd6e0ebd823fb97ed79a133c6c62b50/images/telegram.svg)](https://t.me/nirajajshenoy) [![Twitter](https://github.com/nirajajshenoy/nirajajshenoy/blob/2330576106a9853642c30a030bcb25d2d3f4c8e0/images/twitter.svg)](https://twitter.com/nirajajshenoy)
   
-
   <br><br>
   ### 🛠 &nbsp;Web App Development Tech Stack
 
@@ -20,3 +19,6 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajajshenoy&layout=compact)
