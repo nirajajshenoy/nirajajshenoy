@@ -6,11 +6,10 @@
 - 🔭 I’m currently working on Blockchain
 - 🎓I have done M.Tech Degree in Electronics & Communication
 - 🌱 I’m currently learning Application in Blockchain
-- 💬 Ask me about Public & Private Blockchain 
 - 📫 How to reach me:9497509297
 
 
-  &nbsp; [![Telegram](https://raw.githubusercontent.com/nirajajshenoy/nirajajshenoy/dd73d691b8b71ac4eda23d1a655a822653e26f92/telegram.svg)](https://t.me/nirajajshenoy) [![Twitter](https://raw.githubusercontent.com/nirajajshenoy/nirajajshenoy/dd73d691b8b71ac4eda23d1a655a822653e26f92/twitter.svg)](https://twitter.com/nirajajshenoy)
+  &nbsp; [![Telegram](https://github.com/nirajajshenoy/nirajajshenoy/blob/c84b0976ebd6e0ebd823fb97ed79a133c6c62b50/images/telegram.svg](https://t.me/nirajajshenoy) [![Twitter](https://raw.githubusercontent.com/nirajajshenoy/nirajajshenoy/dd73d691b8b71ac4eda23d1a655a822653e26f92/twitter.svg)](https://twitter.com/nirajajshenoy)
   
 
   <br><br>
