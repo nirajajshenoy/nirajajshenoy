@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Niraja
 
- <img align="left" alt="GIF" src="https://github.com/nirajajshenoy/nirajajshenoy/images/i.webp" width="350" height="250" /><br>
+ <img align="left" alt="GIF" src="https://github.com/nirajajshenoy/nirajajshenoy/images/1.jpg" width="350" height="250" /><br>
   ### 🧑‍💻 &nbsp;About Me <br>
 
 
